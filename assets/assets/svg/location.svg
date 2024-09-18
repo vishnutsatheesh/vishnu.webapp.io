@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="25.655" viewBox="0 0 24 25.655">
+    <g id="Group_4903" data-name="Group 4903" transform="translate(-118 -1062)">
+        <g id="map-pin-2-fill" transform="translate(118 1066.497)">
+            <path id="Path_5711" data-name="Path 5711" d="M0,0H20.5V20.5H0Z" fill="none" />
+            <path id="Path_5712" data-name="Path 5712"
+                d="M16.753,15.753l-5.7,5.7-5.7-5.7a8.056,8.056,0,1,1,11.393,0Zm-5.7-3.906a1.79,1.79,0,1,0-1.79-1.79A1.79,1.79,0,0,0,11.056,11.846Z"
+                transform="translate(-1.172 -0.291)" fill="#ffdac3" />
+        </g>
+        <g id="map-pin-2-line_5_" data-name="map-pin-2-line (5)" transform="translate(118 1062)">
+            <path id="Path_5521" data-name="Path 5521" d="M0,0H24V24H0Z" fill="none" />
+            <path id="Path_5522" data-name="Path 5522"
+                d="M11.979,23.712,5.63,17.353a8.986,8.986,0,1,1,12.7,0Zm4.938-7.772a6.989,6.989,0,1,0-9.877,0l4.938,4.946,4.938-4.946Zm-4.938-2.948a2,2,0,1,1,2-2A2,2,0,0,1,11.979,12.992Z"
+                transform="translate(0.021 0.014)" fill="#e22927" />
+        </g>
+    </g>
+</svg>

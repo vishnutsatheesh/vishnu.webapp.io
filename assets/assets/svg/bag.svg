@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+    <g id="Group_5514" data-name="Group 5514" transform="translate(-22 -287)">
+        <g id="Group_5512" data-name="Group 5512" transform="translate(-15.743 160.257)">
+            <g id="Rectangle_2612" data-name="Rectangle 2612" transform="translate(37.743 126.743)"
+                fill="#fff" stroke="#efeffe" stroke-width="1">
+                <rect width="26" height="26" rx="4" stroke="none" />
+                <rect x="0.5" y="0.5" width="25" height="25" rx="3.5" fill="none" />
+            </g>
+            <g id="shopping-bag-fill_1_" data-name="shopping-bag-fill (1)"
+                transform="translate(41.296 129.475)">
+                <path id="Path_6110" data-name="Path 6110" d="M0,0H19.715V19.715H0Z" fill="none" />
+                <path id="Path_6111" data-name="Path 6111"
+                    d="M10.393,1A4.107,4.107,0,0,1,14.5,5.107V6.75h2.464a.821.821,0,0,1,.821.821V17.43a.821.821,0,0,1-.821.821H3.821A.821.821,0,0,1,3,17.43V7.572a.821.821,0,0,1,.821-.821H6.286V5.107A4.107,4.107,0,0,1,10.393,1ZM14.5,9.215H12.858v.821a.821.821,0,0,0,1.637.1l.006-.1Zm-6.572,0H6.286v.821a.821.821,0,0,0,1.637.1l.006-.1Zm2.464-6.572a2.464,2.464,0,0,0-2.46,2.32l0,.144V6.75h4.929V5.107a2.464,2.464,0,0,0-2.32-2.46Z"
+                    transform="translate(-0.536 -0.179)" fill="#8484a8" />
+            </g>
+        </g>
+    </g>
+</svg>

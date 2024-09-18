@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="43.141"
+    height="47.569" viewBox="0 0 43.141 47.569">
+    <defs>
+        <filter id="Path_5696" x="0" y="0" width="43.141" height="47.569"
+            filterUnits="userSpaceOnUse">
+            <feOffset dy="3" input="SourceAlpha" />
+            <feGaussianBlur stdDeviation="3" result="blur" />
+            <feFlood flood-opacity="0.161" />
+            <feComposite operator="in" in2="blur" />
+            <feComposite in="SourceGraphic" />
+        </filter>
+        <filter id="Path_5697" x="6.663" y="8.761" width="29.813" height="34.25"
+            filterUnits="userSpaceOnUse">
+            <feOffset dy="3" input="SourceAlpha" />
+            <feGaussianBlur stdDeviation="3" result="blur-2" />
+            <feFlood flood-color="#e22927" flood-opacity="0.494" />
+            <feComposite operator="in" in2="blur-2" />
+            <feComposite in="SourceGraphic" />
+        </filter>
+    </defs>
+    <g id="Group_5022" data-name="Group 5022" transform="translate(-19.43 -183.477)">
+        <circle id="Ellipse_544" data-name="Ellipse 544" cx="10" cy="10" r="10"
+            transform="translate(31 196.502)" fill="#fff" />
+        <g id="Group_4910" data-name="Group 4910" transform="translate(-12.5 79.496)">
+            <path id="Path_5695" data-name="Path 5695" d="M0,0H34V34H0Z"
+                transform="translate(36.5 108.504)" fill="none" />
+            <g transform="matrix(1, 0, 0, 1, 31.93, 103.98)" filter="url(#Path_5696)">
+                <path id="Path_5696-2" data-name="Path 5696"
+                    d="M7.724,8A12.495,12.495,0,0,1,23.417,8l2.029-2.046,1.975,1.991L25.392,9.987A12.743,12.743,0,0,1,23.415,27.8,12.5,12.5,0,0,1,5.749,25.805a12.754,12.754,0,0,1,0-15.819L3.719,7.942,5.694,5.951,7.724,8ZM15.57,27.754A9.857,9.857,0,1,0,5.793,17.9,9.817,9.817,0,0,0,15.57,27.754ZM9.983,1H21.157V3.816H9.983Z"
+                    transform="translate(6 5)" fill="#fff" />
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 31.93, 103.98)" filter="url(#Path_5697)">
+                <path id="Path_5697-2" data-name="Path 5697"
+                    d="M15.383,14.147h4.43l-7.383,9.6V17.1H8l7.383-9.605Z"
+                    transform="translate(7.66 7.27)" fill="#e22927" />
+            </g>
+        </g>
+    </g>
+</svg>
